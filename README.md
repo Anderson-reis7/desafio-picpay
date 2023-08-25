@@ -1,3 +1,11 @@
+# Projeto afins de estudos e praticas!
+Olá, seja bem vindo(a)!
+Esse projeto/desafio é totalmente a fins de estudo e praticas, fique a vontade!!
+
+
+
+
+
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
