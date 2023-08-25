@@ -6,6 +6,7 @@ Esse projeto/desafio é totalmente a fins de estudo e praticas, fique a vontade!
 
 
 
+
 # Desafio Back-end PicPay
 
 Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo!
@@ -21,16 +22,6 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 - Dê uma olhada em como será a [entrevista](#para-o-dia-da-entrevista-técnica).
 - Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 - Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
-
-*Corpo do Email com o link do repositório do desafio*
-
->Seu Nome
->
->Nome do recrutador
->
->Link do repositório
->
->Link do Linkedin
 
 ### Sobre o ambiente da aplicação:
 
@@ -111,13 +102,6 @@ A correção qualitativa será durante a entrevista e levará em conta os seguin
 - Arquitetura (estruturar o pensamento antes de escrever)
 - Carinho em desacoplar componentes (outras camadas, service, repository)
 
-De acordo com os critérios acima, iremos avaliar seu teste para avançarmos para a entrevista técnica.
-Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremos prosseguir com o processo.
-
-## O que NÃO será avaliado :warning:
-- Fluxo de cadastro de usuários e lojistas
-- Frontend (só avaliaremos a (API Restful)[https://www.devmedia.com.br/rest-tutorial/28912])
-- Autenticação
 
 ## O que será um Diferencial
 - Uso de Docker
