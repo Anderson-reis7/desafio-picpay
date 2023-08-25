@@ -1,5 +1,6 @@
 package com.picpay.domain.user;
 
+import com.picpay.dtos.UserDTO;
 import jakarta.persistence.*;
 import lombok.*;
 
@@ -26,6 +27,16 @@ public class User {
     private BigDecimal balance;
     @Enumerated(EnumType.STRING)
     private UserType userType;
+
+    public User(UserDTO data){
+        this.name = data.name();
+        this.lastname = data.lastName();
+        this.balance = data.balance();
+        this.userType = data.userType();
+        this.cpf = data.cpf();
+        this.password = data.password();
+        this.email = data.email();
+    }
 
 
 
